@@ -19,7 +19,6 @@
     "concurrently": "^5.1.0"
   },
   "dependencies": {
-    "node": "^19.6.0",
-    "react-scripts": "^5.0.1"
+    "node": "^19.6.0"
   }
 }
